@@ -1,0 +1,30 @@
+html, body {
+    font-family: 'Courier New';
+    margin: 0;
+    padding: 0;
+    position: static; 
+    color: #efe1e7;
+    background-color: #111111;
+}
+p {
+    padding: 0;
+    margin: 0;
+}
+a {
+    text-decoration: none;
+    color: #81797c;
+}
+
+a:link {
+    text-decoration: none;
+}
+a:hover {
+    color: #d7cacf;
+    text-decoration: underline;
+}
+a:visited {
+    text-decoration: none;
+}
+a:active {
+    text-decoration: underline;
+}
