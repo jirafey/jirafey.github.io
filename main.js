@@ -13,6 +13,6 @@ function getBrowser() {
 }
 
     if (getBrowser() !== "Firefox") {
-        document.getElementById("browserInfo").innerHTML = "=( . w . )=  _" } 
+        document.getElementById("browserInfo").innerHTML = "=( . w . )= &#160_" } 
     else {
         document.getElementById("browserInfo").innerHTML = "=( . w . )=_"; }
