@@ -14,5 +14,6 @@ function getBrowser() {
 
     if (getBrowser() !== "Firefox") {
         document.getElementById("browserInfo").innerHTML = "=( . w . )= &#160_" } 
-    else {
+    else if (getBrowser() == "Firefox") {
         document.getElementById("browserInfo").innerHTML = "=( . w . )=_"; }
+
