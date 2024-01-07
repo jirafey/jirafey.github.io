@@ -1,18 +1,18 @@
 function getBrowser() {
-  if( navigator.userAgent.indexOf("Chrome") != -1 ) {
-    return "Chrome";
+    if( navigator.userAgent.indexOf("Chrome") != -1 ) {
+        return "Chrome";
   } else if( navigator.userAgent.indexOf("Opera") != -1 ) {
-    return "Opera";
+        return "Opera";
   } else if( navigator.userAgent.indexOf("MSIE") != -1 ) {
-    return "IE";
+        return "IE";
   } else if( navigator.userAgent.indexOf("Firefox") != -1 ) {
-    return "Firefox";
+        return "Firefox";
   } else {
-    return "unknown";
+        return "unknown";
   }
 }
 
     if (getBrowser() !== "Firefox") {
-                document.getElementById("browserInfo").innerHTML = "=( . w . )= _" } 
+        document.getElementById("browserInfo").innerHTML = "=( . w . )=  _" } 
     else {
-                document.getElementById("browserInfo").innerHTML = "=( . w . )=_"; }
+        document.getElementById("browserInfo").innerHTML = "=( . w . )=_"; }
