@@ -1,7 +1,5 @@
 html, body {
     font-family: 'Times New Roman', serif;
-    margin: 0;
-    padding: 0;
     position: static; 
     color: #efe1e7;
     background-color: #111111;
@@ -10,9 +8,10 @@ p {
     padding: 0;
     margin: 0;
 }
-a {
-    text-decoration: none;
-    color: #81797c;
+
+a{
+  display: block;
+  margin: 1vh;
 }
 
 a:link {
