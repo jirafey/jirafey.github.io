@@ -23,6 +23,5 @@ jobs:
 
       - name: Deploy to Heroku
         run: |
-          heroku git:remote -a your-app-name
+          heroku git:remote -a ${{ secrets.HEROKU_APP_NAME }}
           git push heroku main
-  
