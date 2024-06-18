@@ -1,0 +1,44 @@
+html, body {
+    font-family: 'Times New Roman', serif;
+    margin-left: 1vh;
+    margin-right: 0;
+    margin-bottom: 0;
+    margin-top: 0;
+    padding: 0;
+    color: #efe1e7;
+    background-color: #111111;
+}
+
+h4{
+    padding: 0;
+    margin-bottom: 1vh;
+    margin-top: 1vh;
+
+
+}
+
+p {
+    padding: 0;
+    margin-left: 1vh;
+    margin-right: 0;
+    margin-bottom: 0;
+    margin-top: 0;
+}
+a {
+    text-decoration: none;
+    color: #81797c;
+}
+
+a:link {
+    text-decoration: none;
+}
+a:hover {
+    color: #d7cacf;
+    text-decoration: underline;
+}
+a:visited {
+    text-decoration: none;
+}
+a:active {
+    text-decoration: underline;
+}
