@@ -71,4 +71,5 @@
 * [ ]    Pseudokod
 * [ ]    Lista wskaźnikowa (lista liniowa)
 * [ ]    Skip list (Lista z przeskokami) - usuwanie, wstawianie
-* [ ]	 Array list
+* [ ]    Array list
+
