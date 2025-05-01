@@ -6,7 +6,7 @@
 - [x] czarna wysokosc, 
 - [ ] zasady - czarna wysokosc nie tyczy sie tylko korzenia tutaj,
 - [ ] uzasadnienie logarytmicznosci,
-- +++<s>usuwanie(nie bylo na prezce i ponoc nie pokazywal mowil za ciezkie)</s>+++,
+- [.line-through]#usuwanie(nie bylo na prezce i ponoc nie pokazywal mowil za ciezkie)#,
 - [x] dodawanie,
 - [x] rotacje/fixupy
 - [ ] pseudokod dodawania z fixupami/rotacjami
