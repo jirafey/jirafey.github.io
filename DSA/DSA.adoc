@@ -1,0 +1,74 @@
+* [ ] Drzewa:
+
+* [ ]    BST -> preorder, inorder, postorder, nastepnik, poprzednik, usuwanie, wstawianie, rotacje
+* [ ]    Algorytm DSW
+* [x]    RBT -> 
+- [x] czarna wysokosc, 
+- [ ] zasady - czarna wysokosc nie tyczy sie tylko korzenia tutaj,
+- [ ] uzasadnienie logarytmicznosci,
+- +++<s>usuwanie(nie bylo na prezce i ponoc nie pokazywal mowil za ciezkie)</s>+++,
+- [x] dodawanie,
+- [x] rotacje/fixupy
+- [ ] pseudokod dodawania z fixupami/rotacjami
+
+* [ ]    B- drzewo -> wstawianie, usuwanie 
+* [ ]    B+ drzewo -> wstawianie, usuwanie
+* [ ]    Prefisksowe b+ drzewo (to jako ciekawostka jakas pewnie)
+* [ ]    B* drzewo - 2 slajdy, wstawianie 
+* [ ]    (a,b)-drzewo -> 2 slajdy, wstawianie
+* [ ]    ~~Trie (drzewo prefiksowe) - 1 slajd tylko~~
+* [ ]    k-d drzewo - na prezce 1D -> wywazanie, wstawianie, usuwanie
+* [ ]    ~~R-drzewo -> (jako ciekawsotka)~~
+* [ ]    Splay
+* [ ]    Threaded trees (przed bst, pseudokod dał, pewnie jako wprowadzenie do bst)
+* [ ]    ~~AVL~~ mowil ze nie bedzie
+
+* [ ] Kopce:
+* [ ]    wstawianie, usuwanie
+* [ ]    Binarny (Min/Max)
+* [ ]    Dwumianowy -> łączenie dwóch kopców dwumianowych, zmenisjzenie wartosci dowolnego wezla
+* [ ]    Fibonacciego -> laczenie, zmniejszanie, usuwanie
+* [ ]    sprzężony
+* [ ]    Min-Max 
+* [ ]    Drzewo dwumianowe (jest w prezce o kopcach) -> wlasnosci
+
+* [ ] Haszowanie:
+
+* [ ]   cuckoo
+* [ ]    Robin Hooda -> niby na prezce nie bylo ale gdzies tam bylo omawiane i sie tu uczylismy po cos
+* [ ]    Coalescened
+* [ ]    Podwójne
+* [ ]    Liniowe
+* [ ]    Kwadratowe ? - nie bylo na prezce
+* [ ]    Kubełkowe (Metoda łańcuchowa)
+* [ ]    Hopscotch ? - nie bylo na prezce
+
+* [ ] Sortowania:
+
+* [ ]    Quicksort
+* [ ]    Radix Sort
+* [ ]    Merge Sort
+* [ ]    Heapsort
+* [ ]    Counting
+* [ ]    Bucket
+* [ ]    Bubble
+* [ ]    Insertion
+* [ ]    Selection
+* [ ]    Shell
+
+* [ ] Programowanie dynamiczne, inne:
+
+* [ ]    Odległość Levensteina
+* [ ]    Problem wydawania reszty
+* [ ]    Algorytm Floyda-Warshalla
+* [ ]    Ciąg Fibonacciego (Obliczanie)
+* [ ]    Algorytm Kruskala
+* [ ]    Algorytm Grahama (Graham-Scan)
+* [ ]    FFT/DFT nawet dla 8
+
+* [ ] Inne:
+* [ ]    BigO notation
+* [ ]    Pseudokod
+* [ ]    Lista wskaźnikowa (lista liniowa)
+* [ ]    Skip list (Lista z przeskokami) - usuwanie, wstawianie
+* [ ]	 Array list
