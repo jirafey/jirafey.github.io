@@ -16,12 +16,12 @@
 * [ ]    Prefisksowe b+ drzewo (to jako ciekawostka jakas pewnie)
 * [ ]    B* drzewo - 2 slajdy, wstawianie 
 * [ ]    (a,b)-drzewo -> 2 slajdy, wstawianie
-* [ ]    ~~Trie (drzewo prefiksowe) - 1 slajd tylko~~
+* [ ]    [.line-through]#Trie (drzewo prefiksowe) - 1 slajd tylko#
 * [ ]    k-d drzewo - na prezce 1D -> wywazanie, wstawianie, usuwanie
-* [ ]    ~~R-drzewo -> (jako ciekawsotka)~~
+* [ ]    [.line-through]#R-drzewo -> (jako ciekawsotka)#
 * [ ]    Splay
 * [ ]    Threaded trees (przed bst, pseudokod dał, pewnie jako wprowadzenie do bst)
-* [ ]    ~~AVL~~ mowil ze nie bedzie
+* [ ]    [.line-through]#AVL# mowil ze nie bedzie
 
 * [ ] Kopce:
 * [ ]    wstawianie, usuwanie
