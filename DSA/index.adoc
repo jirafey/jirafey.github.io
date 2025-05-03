@@ -3,8 +3,8 @@
 * [ ]    BST -> preorder, inorder, postorder, nastepnik, poprzednik, usuwanie, wstawianie, rotacje
 * [ ]    Algorytm DSW
 * [x]    RBT -> 
-- [x] czarna wysokosc, 
-- [ ] zasady - czarna wysokosc nie tyczy sie tylko korzenia tutaj,
+- [x] czarna wysokosc, link:rbt.md[rbt.md] 
+- [x] zasady - czarna wysokosc nie tyczy sie tylko korzenia tutaj,
 - [ ] uzasadnienie logarytmicznosci,
 - [.line-through]#usuwanie(nie bylo na prezce i ponoc nie pokazywal mowil za ciezkie)#,
 - [x] dodawanie,
@@ -46,16 +46,37 @@ link:rbt.cpp[rbt.cpp Source Code]
 
 * [ ] Sortowania:
 
-* [ ]    Quicksort
-* [ ]    Radix Sort
-* [ ]    Merge Sort
-* [ ]    Heapsort
-* [ ]    Counting
-* [ ]    Bucket
-* [ ]    Bubble
-* [ ]    Insertion
-* [ ]    Selection
-* [ ]    Shell
+* [x]    Quicksort(koncept), pivot
+	- [ ] pseudocode
+	- [ ] complexity
+* [x]    Radix Sort(koncept), od cyfry jednosci, z pomocniczym algorytmem
+	- [ ] pseudocode
+	- [ ] complexity
+* [x]    Merge Sort(koncept), dzielimy i laczymy
+	- [ ] pseudocode
+	- [ ] complexity
+* [x]    Heapsort(koncept)
+	- [ ] pseudocode
+	- [ ] complexity
+* [x]    Counting(koncept)
+	- [ ] pseudocode
+	- [ ] complexity
+* [x]    Bucket(koncept)
+	- [ ] pseudocode
+	- [ ] complexity
+* [x]    Bubble(koncept)porownywac po kolei i zmieniac (z optymalizacja)
+	- [ ] pseudocode
+	- [ ] complexity
+* [x]    Insertion(koncept)sprawdzamy po lewej stronie czy liczba rozpatrywana jest wieksza od liczb po lewej
+jesli nie to wstawiamy za najmniejsza liczba najblizej jej
+	- [ ] pseudocode
+	- [ ] complexity
+* [x]    Selection(koncept)find minimum and swap 
+	- [ ] pseudocode
+	- [ ] complexity
+* [x]    Shell(koncept) - nie powinno byc
+	- [ ] pseudocode
+	- [ ] complexity
 
 * [ ] Programowanie dynamiczne, inne:
 
