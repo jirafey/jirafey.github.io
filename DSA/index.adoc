@@ -24,7 +24,7 @@ link:rbt.cpp[rbt.cpp Source Code]
 * [ ]    Threaded trees (przed bst, pseudokod dał, pewnie jako wprowadzenie do bst)
 * [ ]    [.line-through]#AVL# mowil ze nie bedzie
 
-* [ ] Kopce:
+* [ ] Kopce: kinda
 * [ ]    wstawianie, usuwanie
 * [ ]    Binarny (Min/Max)
 * [ ]    Dwumianowy -> łączenie dwóch kopców dwumianowych, zmenisjzenie wartosci dowolnego wezla
@@ -80,9 +80,9 @@ jesli nie to wstawiamy za najmniejsza liczba najblizej jej
 
 * [ ] Programowanie dynamiczne, inne:
 
-* [ ]    Odległość Levensteina
+* [x]    Odległość Levensteina
 * [ ]    Problem wydawania reszty
-* [ ]    Algorytm Floyda-Warshalla
+* [x]    Algorytm Floyda-Warshalla
 * [ ]    Ciąg Fibonacciego (Obliczanie)
 * [ ]    Algorytm Kruskala
 * [ ]    Algorytm Grahama (Graham-Scan)
