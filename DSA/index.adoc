@@ -81,11 +81,11 @@ jesli nie to wstawiamy za najmniejsza liczba najblizej jej
 * [ ] Programowanie dynamiczne, inne:
 
 * [x]    Odległość Levensteina
-* [ ]    Problem wydawania reszty
+* [x]    Problem wydawania reszty
 * [x]    Algorytm Floyda-Warshalla
 * [ ]    Ciąg Fibonacciego (Obliczanie)
 * [ ]    Algorytm Kruskala
-* [ ]    Algorytm Grahama (Graham-Scan)
+* [x]    Algorytm Grahama (Graham-Scan)
 * [ ]    FFT/DFT nawet dla 8
 
 * [ ] Inne:
