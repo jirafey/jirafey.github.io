@@ -27,19 +27,19 @@ link:rbt.cpp[rbt.cpp Source Code]
 * [ ] Kopce: kinda
 * [ ]    wstawianie, usuwanie
 * [ ]    Binarny (Min/Max)
-* [ ]    Dwumianowy -> łączenie dwóch kopców dwumianowych, zmenisjzenie wartosci dowolnego wezla
-* [ ]    Fibonacciego -> laczenie, zmniejszanie, usuwanie
-* [ ]    sprzężony
-* [ ]    Min-Max 
+* [x]    Dwumianowy -> łączenie dwóch kopców dwumianowych, zmenisjzenie wartosci dowolnego wezla
+* [x]    Fibonacciego -> laczenie, zmniejszanie, usuwanie
+* [x]    sprzężony
+* [x]    Min-Max 
 * [ ]    Drzewo dwumianowe (jest w prezce o kopcach) -> wlasnosci
 
 * [ ] Haszowanie:
 
-* [ ]   cuckoo
+* [x]   cuckoo
 * [ ]    Robin Hooda -> niby na prezce nie bylo ale gdzies tam bylo omawiane i sie tu uczylismy po cos
 * [ ]    Coalescened
-* [ ]    Podwójne
-* [ ]    Liniowe
+* [x]    Podwójne
+* [x]    Liniowe
 * [ ]    Kwadratowe ? - nie bylo na prezce
 * [ ]    Kubełkowe (Metoda łańcuchowa)
 * [ ]    Hopscotch ? - nie bylo na prezce
@@ -47,8 +47,8 @@ link:rbt.cpp[rbt.cpp Source Code]
 * [ ] Sortowania:
 
 * [x]    Quicksort(koncept), pivot
-	- [ ] pseudocode
-	- [ ] complexity
+	- [x] pseudocode
+	- [x] complexity
 * [x]    Radix Sort(koncept), od cyfry jednosci, z pomocniczym algorytmem
 	- [ ] pseudocode
 	- [ ] complexity
