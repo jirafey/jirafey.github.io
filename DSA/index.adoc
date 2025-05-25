@@ -6,7 +6,6 @@
 - [x] czarna wysokosc, link:rbt.md[rbt.md] 
 - [x] zasady - czarna wysokosc nie tyczy sie tylko korzenia tutaj,
 - [ ] uzasadnienie logarytmicznosci,
-- [.line-through]#usuwanie(nie bylo na prezce i ponoc nie pokazywal mowil za ciezkie)#,
 - [x] dodawanie,
 - [x] rotacje/fixupy
 - [ ] pseudokod dodawania z fixupami/rotacjami
@@ -17,12 +16,9 @@ link:rbt.cpp[rbt.cpp Source Code]
 * [ ]    Prefisksowe b+ drzewo (to jako ciekawostka jakas pewnie)
 * [ ]    B* drzewo - 2 slajdy, wstawianie 
 * [ ]    (a,b)-drzewo -> 2 slajdy, wstawianie
-* [ ]    [.line-through]#Trie (drzewo prefiksowe) - 1 slajd tylko#
 * [ ]    k-d drzewo - na prezce 1D -> wywazanie, wstawianie, usuwanie
-* [ ]    [.line-through]#R-drzewo -> (jako ciekawsotka)#
 * [ ]    Splay
 * [ ]    Threaded trees (przed bst, pseudokod dał, pewnie jako wprowadzenie do bst)
-* [ ]    [.line-through]#AVL# mowil ze nie bedzie
 
 * [ ] Kopce: kinda
 * [ ]    wstawianie, usuwanie
@@ -72,9 +68,6 @@ jesli nie to wstawiamy za najmniejsza liczba najblizej jej
 	- [ ] pseudocode
 	- [ ] complexity
 * [x]    Selection(koncept)find minimum and swap 
-	- [ ] pseudocode
-	- [ ] complexity
-* [x]    Shell(koncept) - nie powinno byc
 	- [ ] pseudocode
 	- [ ] complexity
 
